@@ -1,5 +1,5 @@
 _repo: The-Philosophy-of-Art_52980
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Durand, John
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1908
     gutenberg_agent_id: '31637'
     url: http://www.gutenberg.org/2009/agents/31637
+covers:
+- cover_type: archival
+  image_path: 52980-h/images/cover.jpg
 creator:
   author:
     agent_name: Taine, Hippolyte
@@ -24,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/Hippolyte_Taine
     - http://fr.wikipedia.org/wiki/Hippolyte_Taine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52980#The-Philosophy-of-Art
 gutenberg_issued: '2016-09-04'
 gutenberg_type: Text
 identifiers:
