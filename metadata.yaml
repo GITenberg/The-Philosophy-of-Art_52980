@@ -1,0 +1,41 @@
+_repo: The-Philosophy-of-Art_52980
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Durand, John
+    alias: Durand, J. (John)
+    birthdate: 1822
+    deathdate: 1908
+    gutenberg_agent_id: '31637'
+    url: http://www.gutenberg.org/2009/agents/31637
+creator:
+  author:
+    agent_name: Taine, Hippolyte
+    aliases:
+    - Graindorge, Frederic-Thomas
+    - Taine, H. A. (Hippolyte Adolphe)
+    - Taine, Hippolyte Adolphe
+    - Graindorge, Frédéric-Thomas
+    birthdate: 1828
+    deathdate: 1893
+    gutenberg_agent_id: '969'
+    url: http://www.gutenberg.org/2009/agents/969
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Hippolyte_Taine
+    - http://fr.wikipedia.org/wiki/Hippolyte_Taine
+description: ''
+gutenberg_issued: '2016-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52980'
+  lccn: 09015265
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Aesthetics'
+- GITenberg
+title: The Philosophy of Art
+url: http://www.gutenberg.org/ebooks/52980
